@@ -25,5 +25,3 @@ Sejam bem-vindos(as) ao meu repositório 👨‍💻😎
     
 </div>
   
-![Snake animation](https://github.com/ANDREMILHAREZI/ANDREMILHAREZI/blob/output/github-contribution-grid-snake.svg)
-
